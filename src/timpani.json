@@ -1,0 +1,13 @@
+{
+    "instrument": "bass",
+    "beat": 16,
+    "dynamic": 4,
+    "sustain": 4,
+    "notes": [
+        "| 1", "a_", "a_",
+        "| 2", "d", "d",
+        "| 3", "a_", "a_",
+        "| 4", "d", "d",
+        "| 5", "r", { "name": "d", "dynamic": 3 }
+    ]
+}

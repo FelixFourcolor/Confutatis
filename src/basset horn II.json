@@ -1,0 +1,15 @@
+{
+    "instrument": "flute",
+    "dynamic": 1,
+    "beat": 8,
+    "sustain": -3,
+    "transpose": 5,
+    "notes": [
+        "||1",
+        "||2",
+        "||3",
+        "||4",
+        "||5",
+        "| 6", "r", "d", "cs", "c"
+    ]
+}

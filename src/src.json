@@ -1,5 +1,20 @@
 {
     "time": 32,
     "delay": 1,
-    "transpose": -1
+    "transpose": -1,
+    "voices": [
+        "basset horn II.json",
+        "basset horn I.json",
+        "viola.json",
+        "violin II.json",
+        "violin I.json",
+        "cello.json",
+        "bassoon I.json",
+        "bassoon II.json",
+        "trumpet I.json",
+        "trumpet II.json",
+        "timpani.json",
+        "bass.json",
+        "tenor.json"
+    ]
 }

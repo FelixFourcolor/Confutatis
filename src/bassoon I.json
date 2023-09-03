@@ -1,0 +1,15 @@
+{
+    "instrument": "iron_xylophone",
+    "dynamic": 3,
+    "beat": 4,
+    "sustain": -1,
+    "notes": [
+        "| 1", "r 4b 2b", "c .", "a_ 2",
+        "| 2", "d 2b", { "name": "gs_ 2b", "dynamic": 2, "sustain": false }, "r 2b", "d .", "b_ 2",
+        "| 3", "e 2b", { "name": "a_ 2b", "dynamic": 2, "sustain": false }, "r 4b",
+        "| 4", "r 2b", "f .", "e 2", "d .", "c 2", "b_ .", "a_ 2",
+        "| 5", "gs_ .", "e 2", "d .", "d 2", "ds .", "ds 2", "ds .", "ds 2",
+        "| 6", "e 2b", { "dynamic": 1, "sustain": -2 }, "gs 2b", "fs 2b", "f 2b",
+        "| 7"
+    ]
+}

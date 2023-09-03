@@ -1,0 +1,14 @@
+{
+    "instrument": "guitar",
+    "dynamic": 4,
+    "beat": 4,
+    "sustain": -1,
+    "notes": [
+        "| 1", "r 4b 2b", "c^ .", "a 2",
+        "| 2", "d^ 2b", { "name": "gs 2b", "dynamic": 3, "sustain": false }, "r 2b", "d^ .", "b 2",
+        "| 3", "e^ 2b", { "name": "a 2b", "dynamic": 3, "sustain": false }, "r 4b",
+        "| 4", "r 2b", "f^ .", "e^ 2", "d^ .", "c^ 2", "b .", "a 2",
+        "| 5", "gs .", "e 2", "d^ .", "d^ 2", "ds^ .", "ds^ 2", "ds^ .", "ds^ 2",
+        "| 6", "e^ 2b", { "name": "e 2b", "dynamic": 3, "sustain": false }, "r 4b"
+    ]
+}

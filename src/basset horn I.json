@@ -1,8 +1,8 @@
 {
     "instrument": "flute",
     "dynamic": 1,
-    "beat": 8,
-    "sustain": true,
+    "beat": 4,
+    "sustain": -3,
     "transpose": 5,
     "notes": [
         "||1",
@@ -10,6 +10,11 @@
         "||3",
         "||4",
         "||5",
-        "| 6", { "transpose": -12 }, "r", "d", "e", "fs"
+        "| 6", { "transpose": -12, "sustain": true }, "r 2b", "d 2b", "e 2b", "fs 2b",
+        "| 7", { "transpose": -5, "sustain": -3 }, "c 7b", "c",
+        "| 8", { "name": "c 2b", "sustain": true }, "b_", "b_", { "name": "c 2b", "sustain": true }, "r 2b",
+        "| 9", "c 2b.", "c", "c", "c", "c", "c",
+        "| 10", { "name": "c 2b", "sustain": true }, "b_ 2b", "c 2b", "r 2b",
+        "| 11"
     ]
 }

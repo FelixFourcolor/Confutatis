@@ -5,6 +5,9 @@
     "voices": [
         "basset horn II.json",
         "basset horn I.json",
+        "alto trombone.json",
+        "tenor trombone.json",
+        "bass trombone.json",
         "viola.json",
         "violin II.json",
         "violin I.json",
@@ -15,6 +18,8 @@
         "trumpet II.json",
         "timpani.json",
         "bass.json",
-        "tenor.json"
+        "tenor.json",
+        "alto.json",
+        "soprano.json"
     ]
 }

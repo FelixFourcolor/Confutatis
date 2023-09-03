@@ -1,7 +1,6 @@
 {
     "instrument": "pling",
     "beat": 4,
-    "dynamic": 3,
     "sustain": -3,
     "notes": [
         "||1",

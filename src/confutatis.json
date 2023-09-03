@@ -3,11 +3,11 @@
     "delay": 1,
     "transpose": -1,
     "voices": [
-        "woodwinds/basset horn II.json",
-        "woodwinds/basset horn I.json",
         "brass/alto trombone.json",
         "brass/tenor trombone.json",
         "brass/bass trombone.json",
+        "woodwinds/basset horn II.json",
+        "woodwinds/basset horn I.json",
         "strings/viola.json",
         "strings/violin II.json",
         "strings/violin I.json",

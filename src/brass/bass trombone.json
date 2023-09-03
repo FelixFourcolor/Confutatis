@@ -1,19 +1,19 @@
 {
     "instrument": "didgeridoo",
-    "beat": 8,
-    "dynamic": 3,
+    "beat": 4,
     "sustain": -3,
     "notes": [
-        "||1",
-        "||2",
-        "||3",
-        "||4",
-        "||5",
-        "||6",
-        "||7",
+        "| 1", "r 2b", "a .", "e 2", "c^ 2b", { "name": "a 2b", "dynamic": 1, "sustain": false },
+        "| 2", "r 2b", "b .", "e 2", "d^ 2b", { "name": "gs 2b", "dynamic": 1, "sustain": false },
+        "| 3", "r 2b", "e^ .", "d^ 2", "c^ .", "b 2", "a .", "g 2",
+        "| 4", "f 2b", { "name": "d 2b", "dynamic": 1, "sustain": false }, "r 2b", "d^ .", "d^ 2",
+        "| 5", "d^ .", "e 2", "gs .", "e 2", "c^ .", "a 2", "c^ .", "a 2",
+        { "beat": 8 },
+        "| 6", "gs", { "dynamic": 1 }, "e^", "ds^", "d",
+        "| 7", { "name": "c", "sustain": false }, "r 3b", { "dynamic": 2 },
         "||8",
         "||9",
-        "| 10", { "sustain": -3 }, "r 2b", "c 2b",
+        "| 10", "r 2b", "c 2b",
         "| 11"
     ]
 }

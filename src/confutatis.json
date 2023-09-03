@@ -1,0 +1,25 @@
+{
+    "time": 32,
+    "delay": 1,
+    "transpose": -1,
+    "voices": [
+        "woodwinds/basset horn II.json",
+        "woodwinds/basset horn I.json",
+        "brass/alto trombone.json",
+        "brass/tenor trombone.json",
+        "brass/bass trombone.json",
+        "strings/viola.json",
+        "strings/violin II.json",
+        "strings/violin I.json",
+        "strings/cello.json",
+        "woodwinds/bassoon I.json",
+        "woodwinds/bassoon II.json",
+        "brass/trumpet I.json",
+        "brass/trumpet II.json",
+        "drum/timpani.json",
+        "voices/bass.json",
+        "voices/tenor.json",
+        "voices/alto.json",
+        "voices/soprano.json"
+    ]
+}

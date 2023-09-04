@@ -9,11 +9,17 @@
         "| 3", "e 2b", { "name": "a_ 2b", "dynamic": 2, "sustain": false }, "r 4b",
         "| 4", "r 2b", "f .", "e 2", "d .", "c 2", "b_ .", "a_ 2",
         "| 5", "gs_ .", "e 2", "d .", "d 2", "ds .", "ds 2", "ds .", "ds 2",
-        "| 6", { "name": "e 2b", "sustain": true }, "r 2b 4b",
-        "||7",
+        "| 6", "e 2b", { "dynamic": 1, "sustain": -3 }, "e 2b", "ds 2b", "d 2b",
+        "| 7", { "name": "c 2b", "sustain": -2 }, "r 2b 4b",
         "||8",
         "||9",
-        "||10",
-        "| 11"
+        "||10", { "dynamic": 3, "sustain": -1 },
+        "| 11", "r 2b", "d .", "g 2", "fs 2b", { "name": "d 2b", "dynamic": 2, "sustain": false },
+        "| 12", "r 2b", "e .", "a 2", "gs 2b", { "name": "e 2b", "dynamic": 2, "sustain": false },
+        "| 13", "f 2b.", "g", "e .", "e 2", "e .", "f 2",
+        "| 14", "d .", "d 2", "d .", "e 2", "c .", "c 2", "bb_ .", "bb_ 2",
+        "| 15", "a_ .", "a_ 2", "d .", "d 2", "ds .", "ds 2", "ds .", "ds 2",
+        "| 16", "e 2b", { "dynamic": 1, "sustain": -3 }, "gs_ 2b", "a_ 2b", "b_ 2b",
+        "| 17"
     ]
 }

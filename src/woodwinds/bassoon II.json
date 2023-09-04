@@ -1,6 +1,7 @@
 {
     "instrument": "didgeridoo",
     "dynamic": 3,
+    "sustainDynamic": 2,
     "beat": 4,
     "sustain": -1,
     "notes": [
@@ -9,11 +10,17 @@
         "| 3", "r 2b", "e^ .", "d^ 2", "c^ .", "b 2", "a .", "g 2",
         "| 4", "f 2b", { "name": "d 2b", "dynamic": 2, "sustain": false }, "r 2b", "d^ .", "d^ 2",
         "| 5", "d^ .", "e 2", "gs .", "e 2", "c^ .", "a 2", "c^ .", "a 2",
-        "| 6", { "name": "gs 2b", "sustain": true }, "r 2b 4b",
-        "||7", 
+        "| 6", "gs 2b", { "dynamic": 1, "sustainDynamic": 1 }, "g^ 2b", "fs^ 2b", "f^ 2b",
+        "| 7", { "name": "e^ 2b", "sustain": -4 }, "r 2b 4b",
         "||8",
-        "||9",
+        "||9", { "dynamic": 3, "sustainDynamic": 2 },
         "| 10", "r 4b 2b", "g .", "c^ 2",
-        "| 11"
+        "| 11", "b 2b", { "name": "g 2b", "dynamic": 2, "sustain": false }, "r 2b", "a .", "d^ 2",
+        "| 12", "cs^ 2b", { "name": "a 2b", "dynamic": 2, "sustain": false }, "r 2b", "b .", "e^ 2",
+        "| 13", "e^ .", "a 2", "d^ .", "d^ 2", "d^ .", "g 2", "c^ .", "c^ 2",
+        "| 14", "c^ .", "fs 2", "b .", "b 2", "a .", "a 2", "cs^ .", "cs^ 2",
+        "| 15", "d^ .", "d^ 2", "a .", "b 2", "c^ .", "c^ 2", "b .", "a 2",
+        "| 16", "gs 2b", { "dynamic": 1, "sustainDynamic": 1 }, "b 2b", "c^ 2b", "d^ 2b",
+        "| 17"
     ]
 }

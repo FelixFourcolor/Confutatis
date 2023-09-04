@@ -1,18 +1,24 @@
 {
     "instrument": "pling",
     "beat": 4,
-    "sustain": -3,
+    "sustain": -1,
     "notes": [
         "| 1", "r 4b 2b", "c .", "a_ 2",
         "| 2", "d 2b", { "name": "gs_ 2b", "dynamic": 1, "sustain": false }, "r 2b", "d .", "b_ 2",
         "| 3", "e 2b", { "name": "a_ 2b", "dynamic": 1, "sustain": false }, "r 4b",
         "| 4", "r 2b", "f .", "e 2", "d .", "c 2", "b_ .", "a_ 2",
         "| 5", "gs_ .", "e 2", "d .", "d 2", "ds .", "ds 2", "ds .", "ds 2",
-        "| 6", "e 2b", { "dynamic": 1 }, "gs 2b", "fs 2b", "f 2b",
-        "| 7", { "name": "e 2b", "sustain": false }, "r 2b 4b", { "dynamic": 2 },
+        "| 6", { "name": "e 2b", "sustain": true }, "r 2b 4b",
+        "||7",
         "||8",
         "||9",
         "| 10", "r 4b", "g_ 2b.", "c",
-        "| 11"
+        "| 11", "b_ 2b", "bb_ 2b", "a_ 2b.", "d",
+        "| 12", "cs 2b", "c 2b", "b_ 2b.", "e",
+        "| 13", "e 2b", "d 4b", "c 2b 2b",
+        "b_ 2b", "a_ 2b", "cs 2b",
+        "| 15", "d 2b", "a_ .", "b_ 2", "c 2b", "b_ .", "a_ 2",
+        "| 16", { "name": "gs_ 2b", "sustain": true }, "r 2b 4b",
+        "| 17"
     ]
 }

@@ -1,7 +1,8 @@
 {
     "instrument": "pling",
     "beat": 16,
-    "dynamic": 2,
+    "dynamic": 3,
+    "sustainDynamic": 2,
     "transpose": 2,
     "sustain": 4,
     "notes": [
@@ -9,18 +10,16 @@
         "| 2", "c^", "c^",
         "| 3", "d^", "d^",
         "| 4", "c^", "g",
-        "| 5", "d^", "g",
-        "| 6", "d^", "r",
+        "| 5", { "name": "d^", "dynamic": 2, "sustainDynamic": 1 }, "g",
+        "| 6", { "name": "d^", "dynamic": 2, "sustainDynamic": 1 },"r",
         "||7",
         "||8",
         "||9",
         "||10",
         "| 11", "r", "c^",
-        "| 12", "g", "d^",
+        "| 12", "g", { "name": "d^", "dynamic": 2, "sustainDynamic": 1 },
         "| 13", "g", "r",
         "| 14", "c^", "g",
-        "| 15", "c^", "g",
-        "||16",
-        "| 17"
+        "| 15", "c^", "g"
     ]
 }

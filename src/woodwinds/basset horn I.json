@@ -30,6 +30,20 @@
         "| 24", "gs_ 2b", "a_ 4b", "gs_ 2b",
         { "beat": 8 },
         "| 25", { "transpose": 0, "dynamic": 1, "sustainDynamic": null }, { "name": "e", "dynamic": 3 }, "e 3b",
-        "| 26"
+        "| 26", { "dynamic": 2 }, "e 4b",
+        "| 27", "f 4b 1b",
+        "eb 2b", "d",
+        "| 29", "eb", { "name": "eb 3b", "dynamic": 1 },
+        "| 30", "ds 4b",
+        "| 31", "e 4b 1b",
+        "d 2b", { "name": "cs", "instrument": "harp", "dynamic": 3, "sustainDynamic": 2 },
+        "| 33", "d", { "name": "d 3b", "dynamic": 1 },
+        "| 34", "d 4b",
+        "| 35", "eb 2b", { "instrument": "harp", "dynamic": 3, "sustainDynamic": 2 }, "db 2b",
+        "| 36", "cs 4b",
+        "| 37", { "name": "d 2b", "instrument": "flute", "dynamic": 2 }, "c 2b 2b",
+        "b_ 2b",
+        "| 39", "c 4b",
+        "| 40"
     ]
 }

@@ -30,7 +30,7 @@
         "| 23", "e4", "d4", "c4", "b3", "a3", "g4", "fs4", "f4",
         "| 24", "e4", "d4 2", "e4 2", { "name": "f4", "sustain": -1 }, "e4 2", "f4 2", { "name": "d4", "sustain": -1 }, "c4 2", "d4 2", { "name": "e4", "sustain": -1 }, "d4 2", "e4 2",
         { "beat": 8 },
-        "| 25", { "instrument": "guitar", "dynamic": 2, "sustain": false }, "a^", "a^", "a^", "a^",
+        "| 25", { "instrument": "guitar", "dynamic": 3, "sustain": false }, "a^", "a^", "a^", "a^",
         "| 26", "eb^", "eb^", "eb^", "eb^",
         "| 27", "eb^", "eb^", "eb^", "eb^",
         "| 28", "eb^", "eb^", "eb^", "eb^",

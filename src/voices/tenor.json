@@ -15,7 +15,7 @@
         "||9",
         "||10",
         "| 11", "r 2b", "d^ .", "g^ 2", "fs^ 2b", { "name": "d^ 2b", "dynamic": 3, "sustain": false },
-        "| 12", "r 2b", "e^ .", { "instrument": "bit" }, "a^ 2", "gs^ 2b", { "instrument": "guitar" }, { "name": "e^ 2b", "dynamic": 3, "sustain": false },
+        "| 12", "r 2b", "e^ .", { "instrument": "banjo", "dynamic": 3 }, "a^ 2", "gs^ 2b", { "instrument": "guitar", "dynamic": 4 }, { "name": "e^ 2b", "dynamic": 3, "sustain": false },
         "| 13", "f^ 2b.", "g^", "e^ .", "e^ 2", "e^ .", "f^ 2",
         "| 14", "d^ .", "d^ 2", "d^ .", "e^ 2", "c^ .", "c^ 2", "bb .", "bb 2",
         "| 15", "a .", "a 2", "d^ .", "d^ 2", "ds^ .", "ds^ 2", "ds^ .", "ds^ 2",

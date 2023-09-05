@@ -31,6 +31,20 @@
         "||24",
         { "beat": 2 },
         "| 25", "r", "c", "c", "c", "r", "e", "e", "e", "r", "a", "a", "a", "r", "c^", "c^", "c^",
-        "| 26"
+        "| 26", "r", "a", "a", "a", "r", "c^", "c^", "c^", "r", "a", "a", "a", "r", "fs", "fs", "fs",
+        "| 27", "r", "eb", "eb", "eb", "r", "db", "db", "db", "r", "bb_", "bb_", "bb_", "r", "g_", "g_", "g_",
+        "| 28", { "instrument": "guitar" }, "r", "eb_", "eb_", "eb_", "r", "eb_", "eb_", "eb_", "r", "eb_", "eb_", "eb_", "r", "eb_", "eb_", "eb_",
+        "| 29", "eb_", { "instrument": "harp" }, "cb", "cb", "cb", "r", "eb", "eb", "eb", "r", "ab", "ab", "ab", "r", "cb^", "cb^", "cb^",
+        "| 30", "r", "gs", "gs", "gs", "r", "b", "b", "b", "r", "gs", "gs", "gs", "r", "es", "es", "es",
+        "| 31", "r", "fs", "fs", "fs", "r", "c", "c", "c", "r", "a_", "a_", "a_", { "instrument": "guitar" }, "r", "fs_", "fs_", "fs_",
+        "| 32", "r", "d_", "d_", "d_", "r", "d_", "d_", "d_", { "instrument": "harp" }, "r", "a_", "a_", "a_", "r", "a_", "a_", "a_",
+        "| 33", "r", "g_", "g_", "g_", "r", "d", "d", "d", "r", "g", "g", "g", "r", "bb", "bb", "bb",
+        "| 34", "r", "e", "e", "e", "r", "bb", "bb", "bb", "r", "g", "g", "g", "r", "e", "e", "e",
+        "| 35", "r", "ab_", "ab_", "ab_", "r", "ab_", "ab_", "ab_", { "instrument": "guitar" }, "r", "gb_", "gb_", "gb_", { "instrument": "harp" }, "r", "bbb", "bbb", "bbb",
+        "| 36", "r", "ds^", "ds^", "ds^", "r", "a", "a", "a", "r", "fs", "fs", "fs", "r", "ds", "ds", "ds",
+        "| 37", "r", "e", "e", "e", "r", "g_", "g_", "g_", "r", "c", "c", "c", { "instrument": "guitar" }, "r", "f_", "f_", "f_", { "instrument": "harp" },
+        "| 38", "r", "g_", "g_", "g_", "r", "b_", "b_", "b_", "r", "g_", "g_", "g_", { "instrument": "guitar" }, "r", "e_", "e_", "e_",
+        "| 39", "r", "f_", "f_", "f_", "r", "f_", "f_", "f_", "r", "f_", "f_", "f_", "r", "f_", "f_", "f_",
+        "| 40"
     ]
 }

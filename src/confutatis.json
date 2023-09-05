@@ -19,7 +19,7 @@
         "percussion/timpani.json",
         "voices/tenor.json",
         "voices/bass.json",
-        "voices/alto.json",
-        "voices/soprano.json"
+        "voices/soprano.json",
+        "voices/alto.json"
     ]
 }

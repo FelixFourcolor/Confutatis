@@ -29,7 +29,7 @@
         "| 23", "gs_ 2b", "gs_ 2b", "a_ 2b", "a_ 2b",
         "| 24", "gs_ 2b", "a_ 4b", "gs_ 2b",
         { "beat": 8 },
-        "| 25", { "transpose": 0, "dynamic": 2, "sustainDynamic": null }, { "name": "e", "dynamic": 4 }, "e 3b",
+        "| 25", { "transpose": 0, "dynamic": 1, "sustainDynamic": null }, { "name": "e", "dynamic": 3 }, "e 3b",
         "| 26"
     ]
 }

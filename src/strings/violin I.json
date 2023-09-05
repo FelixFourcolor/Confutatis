@@ -29,7 +29,21 @@
         "| 23", "e", "d", "c", "b_", "a_", "g", "fs", "f",
         "| 24", "e", "d 2", "e 2", "f", "e 2", "f 2", "d", "c 2", "d 2", "e", "d 2", "e 2",
         { "beat": 2 },
-        "| 25", "a_", "a", "a", "a", "r", "c^", "c^", "c^", "r", "e^", "e^", "e^", { "instrument": "flute" }, "r", "a^", "a^", "a^", { "instrument": "harp" },
-        "| 26"
+        "| 25", "a_", "a", "a", "a", "r", "c^", "c^", "c^", "r", "e^", "e^", "e^", { "instrument": "flute" }, "r", "a^", "a^", "a^",
+        "| 26", "r", "c^^", "c^^", "c^^", "r", "a^", "a^", "a^", { "instrument": "harp" }, "r", "fs^", "fs^", "fs^", "r", "c^", "c^", "c^",
+        "| 27", "r", "db^", "db^", "db^", "r", "bb", "bb", "bb", "r", "g", "g", "g", "r", "db", "db", "db",
+        "| 28", "r", "cb", "cb", "cb", "r", "cb", "cb", "cb", "r", "bb", "bb", "bb", "r", "bb", "bb", "bb",
+        "| 29", "ab_", "ab", "ab", "ab", "r", "cb^", "cb^", "cb^", "r", "eb^", "eb^", "eb^", { "instrument": "flute" }, "r", "ab^", "ab^", "ab^",
+        "| 30", "r", "b^", "b^", "b^", "r", "gs^", "gs^", "gs^", { "instrument": "harp" }, "r", "es^", "es^", "es^", "r", "b", "b", "b",
+        "| 31", "r", "c^", "c^", "c^", "r", "a", "a", "a", "r", "fs", "fs", "fs", "r", "c", "c", "c",
+        "| 32", "r", "bb_", "bb_", "bb_", "r", "bb_", "bb_", "bb_", "r", "c", "c", "c", "r", "fs", "fs", "fs",
+        "| 33", "r", "g", "g", "g", "r", "bb", "bb", "bb", "r", "d^", "d^", "d^", "r", "g^", "g^", "g^",
+        "| 34", { "instrument": "flute" }, "r", "bb^", "bb^", "bb^", { "instrument": "harp" }, "r", "g^", "g^", "g^", "r", "e^", "e^", "e^", "r", "bb", "bb", "bb",
+        "| 35", "r", "cb^", "cb^", "cb^", "r", "f", "f", "f", "r", "gb", "gb", "gb", "r", "gb^", "gb^", "gb^",
+        "| 36", { "instrument": "flute" }, "r", "a^", "a^", "a^", { "instrument": "harp" }, "r", "fs^", "fs^", "fs^", "r", "ds^", "ds^", "ds^", "r", "a", "a", "a",
+        "| 37", "r", "bb", "bb", "bb", "r", "e", "e", "e", "r", "f", "f", "f", "r", "ab", "ab", "ab",
+        "| 38", "r", "f", "f", "f", "r", "g", "g", "g", "r", "e", "e", "e", "r", "g", "g", "g",
+        "| 39", "r", "f", "f", "f", "r", "c", "c", "c", "r", "f", "f", "f", "r", "c", "c", "c",
+        "| 40"
     ]
 }

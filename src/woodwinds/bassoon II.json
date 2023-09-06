@@ -1,7 +1,6 @@
 {
     "instrument": "didgeridoo",
     "dynamic": 3,
-    "sustainDynamic": 2,
     "beat": 4,
     "sustain": -1,
     "notes": [
@@ -10,17 +9,17 @@
         "| 3", "r 2b", "e^ .", "d^ 2", "c^ .", "b 2", "a .", "g 2",
         "| 4", "f 2b", { "name": "d 2b", "dynamic": 2, "sustain": false }, "r 2b", "d^ .", "d^ 2",
         "| 5", "d^ .", "e 2", "gs .", "e 2", "c^ .", "a 2", "c^ .", "a 2",
-        "| 6", "gs 2b", { "dynamic": 1, "sustainDynamic": 1 }, "e^ 2b", "ds^ 2b", "d^ 2b",
+        "| 6", "gs 2b", { "dynamic": 1 }, "e^ 2b", "ds^ 2b", "d^ 2b",
         "| 7", { "name": "c^ 2b", "sustain": -4 }, "r 2b 4b",
         "||8",
-        "||9", { "dynamic": 3, "sustainDynamic": 2 },
+        "||9", { "dynamic": 3 },
         "| 10", "r 4b 2b", "g .", "c^ 2",
         "| 11", "b 2b", { "name": "g 2b", "dynamic": 2, "sustain": false }, "r 2b", "a .", "d^ 2",
         "| 12", "cs^ 2b", { "name": "a 2b", "dynamic": 2, "sustain": false }, "r 2b", "b .", "e^ 2",
         "| 13", "e^ .", "a 2", "d^ .", "d^ 2", "d^ .", "g 2", "c^ .", "c^ 2",
         "| 14", "c^ .", "fs 2", "b .", "b 2", "a .", "a 2", "cs^ .", "cs^ 2",
         "| 15", "d^ .", "d^ 2", "a .", "b 2", "c^ .", "c^ 2", "b .", "a 2",
-        "| 16", "gs 2b", { "dynamic": 1, "sustainDynamic": 1 }, "gs 2b", "a 2b", "b 2b",
+        "| 16", "gs 2b", { "dynamic": 1 }, "gs 2b", "a 2b", "b 2b",
         "| 17", { "name": "a 2b", "sustain": -4 }, "r 2b 4b",
         "||18",
         "||19",
@@ -28,10 +27,10 @@
         "||21",
         "||22",
         "||23",
-        "||24", { "sustain": true, "dynamic": 2, "sustainDynamic": 2 },
+        "||24", { "sustain": true, "dynamic": 2 },
         { "beat": 32 },
         "| 25", "a",
-        "| 26", { "dynamic": 3 }, "eb 1b 1b",
+        "| 26", "eb 1b 1b",
         "| 28", "eb",
         "| 29", "ab",
         "| 30", "d",
@@ -44,6 +43,7 @@
         "| 37", { "beat": 16 }, "c", "c", { "beat": 32 },
         "| 38", "c",
         "| 39", "f",
-        "| 40"
+        { "beat": 16 },
+        "| 40", { "dynamic": 1 }, "f"
     ]
 }

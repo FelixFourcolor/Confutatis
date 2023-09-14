@@ -3,7 +3,7 @@
 
 Recording: https://youtu.be/C15ih5_7kHM
 
-Note: The structure shown in the YouTube recording was made at commit [2ae04a4](https://github.com/FelixFourcolor/Confutatis/commit/2ae04a4eebd39e2dedc53611237a7ded4c77842e). A few improvements have been made since then. You can revert to this commit if you want an exact replica of what was shown in the video.
+Note: The structure shown in the YouTube video was made at commit [2ae04a4](https://github.com/FelixFourcolor/Confutatis/commit/2ae04a4eebd39e2dedc53611237a7ded4c77842e). A few improvements have been made since then. You can revert to this commit if you want an exact replica of what was shown in the video.
 
 ## Arrangement
 Instrumentation:
@@ -59,4 +59,4 @@ The structure is auto-generated using [noteblock-generator](https://github.com/F
     (See [noteblock-generator](https://github.com/FelixFourcolor/noteblock-generator)'s documentation for explanation and more build options.)
 
 ## License
-Do whatever you want.
+This project, including the uploaded YouTube video, is given to the public domain. No rights reserved.

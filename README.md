@@ -4,8 +4,6 @@
 Recording: https://youtu.be/C15ih5_7kHM
 
 ## Arrangement
-Based on Süssmayr's completion.
-
 Instrumentation:
 * Soprano: bit (except *sotto voce* is harp + flute)
 * Alto: bit (except *sotto voce* is harp + flute)
@@ -57,6 +55,3 @@ The structure is auto-generated using [noteblock-generator](https://github.com/F
     ```
 
     (See [noteblock-generator](https://github.com/FelixFourcolor/noteblock-generator)'s documentation for explanation and more build options.)
-
-## License
-Do whatever you want.

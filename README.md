@@ -31,7 +31,7 @@ To obtain the folder, you may clone the repo or use third-party tools such as [D
 
 ## Build from source
 ### Build requirements
-* python 3.10+
+* python >= 3.10, < 3.12
 * pip
 
 ### Overview of the build process

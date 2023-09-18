@@ -3,7 +3,7 @@
 
 Recording: https://youtu.be/C15ih5_7kHM
 
-Note: The structure shown in the YouTube video was made at commit [2ae04a4](https://github.com/FelixFourcolor/Confutatis/commit/2ae04a4eebd39e2dedc53611237a7ded4c77842e). A few improvements have been made since then. You can revert to this commit if you want an exact replica of what was shown in the video.
+Note: A few changes have been made since the release of the YouTube video. You can switch to the [YouTube branch](https://github.com/FelixFourcolor/Confutatis/tree/YouTube) for an exact replica what was shown in the video. Otherwise, stay on the main branch for the latest version.
 
 ## Arrangement
 Instrumentation:
@@ -33,7 +33,7 @@ To obtain the folder, you may clone the repo or use third-party tools such as [D
 
 ## Build from source
 ### Build requirements
-* python 3.10+
+* python >= 3.10, < 3.12
 * pip
 
 ### Overview of the build process

@@ -26,7 +26,7 @@ Tranposed down one semitone to better fit noteblock's ranges. However, a few not
 ## Play requirements
 Minecraft java 1.19+
 
-Go to Music & Sounds setting, turn on Directional Audio and turn down Jukebox/Note Blocks sound level to 50% (otherwise it's too loud).
+Go to Music & Sounds settings and turn on Directional Audio. Optionally, turn down Master Volume to about 50% to 60%, otherwise it might be a bit too loud (but of course this depends on your speakers).
 
 ## Easy install 
 Copy the [World](https://github.com/FelixFourcolor/Confutatis/tree/main/World) folder into your saves.
@@ -59,3 +59,8 @@ The structure is auto-generated using [noteblock-generator](https://github.com/F
     ```
 
     (See [noteblock-generator](https://github.com/FelixFourcolor/noteblock-generator)'s documentation for explanation and more build options.)
+
+## License
+While Minecraft remains Mojang's property and is subjected to their terms of service, the source code used to generate this structure is given to the public domain. You are free to do whatever you want with it, as long as it complies with Minecraft's terms of service, without any restrictions from my end.
+
+See [LICENSE](https://github.com/FelixFourcolor/Confutatis/blob/main/LICENSE) for more details.
